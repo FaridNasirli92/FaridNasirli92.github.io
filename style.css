@@ -1,0 +1,50 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Yaldevi', sans-serif;
+	  background: url(Blog-Web-Header-Background.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+h1{
+	font-size: 3rem;
+	color: #e2e0e4;
+}
+
+hr {
+	/*border-color: #FF6A00;*/
+	width: 20%;
+	height: 30px;
+	color: r#FF6A00;
+	background-color: #C75707;
+	/*border-width: 30px;*/
+	max-width: 10px;
+}
+
+.buffer{
+	height: 8rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #FF6A00;
+	border-color: #FF6A00;
+}
+
+.btn-primary:hover{
+	background-color: #C75707;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+
+}
