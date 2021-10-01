@@ -17,12 +17,12 @@ h1{
 }
 
 hr {
-	/*border-color: #FF6A00;*/
-	width: 20%;
-	height: 30px;
+	border-color: #FF6A00;
+	width: 50%;
+	height: 10px;
 	color: r#FF6A00;
 	background-color: #C75707;
-	/*border-width: 30px;*/
+	border-width: 10px;
 	max-width: 10px;
 }
 
